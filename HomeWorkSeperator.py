@@ -1,7 +1,4 @@
 # Written by Daniel Demidovski to separate all homework from single file to files
-# infile = open('C:/Users/Daniel/PycharmProjects/Lesson1/main.py', 'r')
-# print(infile.read())
-# infile.close()
 
 def slicer(file_path, start, end):
     file = open(file_path, 'r')
